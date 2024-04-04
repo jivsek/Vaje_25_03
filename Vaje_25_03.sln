@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vozilo", "Vozilo\Vozilo.csproj", "{8E22B128-9B1C-43A5-BAEE-AD4FEF76DDF4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoziloUnitTests", "VoziloUnitTests\VoziloUnitTests.csproj", "{7D69F1CE-BC68-4CDC-B9EF-47EF79874419}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8E22B128-9B1C-43A5-BAEE-AD4FEF76DDF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E22B128-9B1C-43A5-BAEE-AD4FEF76DDF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E22B128-9B1C-43A5-BAEE-AD4FEF76DDF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D69F1CE-BC68-4CDC-B9EF-47EF79874419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D69F1CE-BC68-4CDC-B9EF-47EF79874419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D69F1CE-BC68-4CDC-B9EF-47EF79874419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D69F1CE-BC68-4CDC-B9EF-47EF79874419}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
